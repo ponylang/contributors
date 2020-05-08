@@ -17,7 +17,7 @@ In order to run the Pony Sync meeting you will need:
 5. A 1Password account that is connected to the Pony 1Password account
 6. [Zoom](https://zoom.us)
 7. The Zoom password for the `ponylang.main@gmail.com` account, which is available in the Pony 1Password vault
-8. Access to the Pony Sync recording account on [nearlyfreespeach.net](https://nearlyfreespeach.net) (for access, contact Sean T. Allen via private message on Zulip)
+8. Access to the Pony Sync recording account on [nearlyfreespeech.net](https://nearlyfreespeech.net) (for access, contact Sean T. Allen via private message on Zulip)
 9. A program for transfering files via `scp`
 
 ### Steps
