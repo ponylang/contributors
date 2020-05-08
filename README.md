@@ -1,2 +1,5 @@
-# contributors
-:horse: Information for Pony contributors
+# Pony contributors "website"
+
+Information for Pony contributors broken down into different topics.
+
+- [CI](ci)
