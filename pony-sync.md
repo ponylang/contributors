@@ -31,5 +31,5 @@ In order to run the Pony Sync meeting you will need:
 7. When the meeting discussion has ended, stop recording and announce that you have stopped recording.
 8. The recording of the meeting will be written to disk when you leave the meeting.
 9. Use SCP to copy the meeting recording to the `r` directory of the Pony account on [nearlyfreespeach.net](https://nearlyfreespeach.net). The file should be called `DATE.m4a`, where `DATE` is the date in YYYY\_MM\_DD format(for example May 12, 2020 would be `2020_05_12.m4a`).
-10. Put a note in the Zulip topic for the sync announcing that the sync recording is available and points to the recording URL.
+10. Put a note in [the Zulip topic for the sync](https://ponylang.zulipchat.com/#narrow/stream/190591-sync) announcing that the sync recording is available and points to the recording URL.
 11. Add a comment to the "Last Week in Pony" issue (in the [ponylang/pony-website](https://github.com/ponylang/pony-website) repo) that also announces that the recording is available.
