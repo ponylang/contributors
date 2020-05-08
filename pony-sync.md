@@ -14,7 +14,7 @@ In order to run the Pony Sync meeting you will need:
 2. A GitHub personal access token for running the `pony-sync-helper` program
 3. The [`pony-sync-helper`](https://github.com/ponylang/pony-sync-helper) program
 4. [Zulip](https://zulipchat.com/) and a Zulip account
-5. A 1Password account that is connected to the Pony 1Password account
+5. A 1Password account that is connected to the [Pony 1Password account](https://ponylangcoreteam.1password.com/signin)
 6. [Zoom](https://zoom.us)
 7. The Zoom password for the `ponylang.main@gmail.com` account, which is available in the Pony 1Password vault
 8. Access to the Pony Sync recording account on [nearlyfreespeech.net](https://nearlyfreespeech.net) (for access, contact Sean T. Allen via private message on Zulip)
