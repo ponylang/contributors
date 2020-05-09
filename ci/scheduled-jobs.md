@@ -15,6 +15,7 @@ The scheduled jobs list was last updated May 9, 2020.
 | changelog-tool: test against ponyc latest | 02:00 | https://github.com/ponylang/changelog-tool |
 | corral: test against ponyc latest | 02:00 | https://github.com/ponylang/corral |
 | http: update CI image | 02:00 | https://github.com/ponylang/http |
+| http-server: update CI image | 02:00 | https://github.com/ponylang/http-server |
 | net_ssl: update CI image | 02:00 | https://github.com/ponylang/net_ssl |
 | shared-docker: update x86-64-unknown-linux-builder-with-pcre image | 02:00 | https://github.com/ponylang/shared-docker |
 | shared-docker: update x86-64-unknown-linux-builder-with-ssl image | 02:00 | https://github.com/ponylang/shared-docker |
@@ -22,6 +23,7 @@ The scheduled jobs list was last updated May 9, 2020.
 | crypto: test against ponyc latest | 03:00 | https://github.com/ponylang/crypto |
 | glob: test against ponyc latest | 03:00 | https://github.com/ponylang/glob |
 | http: test against ponyc latest | 03:00 | https://github.com/ponylang/http |
+| http-server: test against ponyc latest | 03:00 | https://github.com/ponylang/http-server |
 | net_ssl: test against ponyc latest | 03:00 | https://github.com/ponylang/net_ssl |
 | peg: test against ponyc latest | 03:00 | https://github.com/ponylang/peg |
 | ponyup: test against ponyc latest | 03:00 | https://github.com/ponylang/ponyup |
