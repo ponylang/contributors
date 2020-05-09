@@ -22,7 +22,7 @@ The scheduled jobs list was last updated May 9, 2020.
 | crypto: test against ponyc latest | 03:00 | https://github.com/ponylang/crypto |
 | glob: test against ponyc latest | 03:00 | https://github.com/ponylang/glob |
 | http: test against ponyc latest | 03:00 | https://github.com/ponylang/http |
-| http-server: test against ponyc latest | 03:00 | https://github.com/ponylang/http-server |
+| http_server: test against ponyc latest | 03:00 | https://github.com/ponylang/http_server |
 | net_ssl: test against ponyc latest | 03:00 | https://github.com/ponylang/net_ssl |
 | peg: test against ponyc latest | 03:00 | https://github.com/ponylang/peg |
 | ponyup: test against ponyc latest | 03:00 | https://github.com/ponylang/ponyup |
