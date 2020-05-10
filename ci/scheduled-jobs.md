@@ -28,4 +28,5 @@ The scheduled jobs list was last updated May 9, 2020.
 | ponyup: test against ponyc latest | 03:00 | https://github.com/ponylang/ponyup |
 | reactive_streams: test against ponyc latest | 03:00 | https://github.com/ponylang/reactive_streams |
 | regex: test against ponyc latest | 03:00 | https://github.com/ponylang/regex |
+| semver: test against ponyc latest | 03:00 | https://github.com/ponylang/semver |
 | valbytes: test against ponyc latest | 03:00 | https://github.com/ponylang/valbytes |
