@@ -16,6 +16,7 @@ The scheduled jobs list was last updated May 9, 2020.
 | corral: test against ponyc latest | 02:00 | https://github.com/ponylang/corral |
 | http: update CI image | 02:00 | https://github.com/ponylang/http |
 | shared-docker: update x86-64-unknown-linux-builder-with-libressl image | 02:00 | https://github.com/ponylang/shared-docker |
+| shared-docker: update x86-64-unknown-linux-builder-with-openssl_1.1.1g image | 02:00 | https://github.com/ponylang/shared-docker |
 | shared-docker: update x86-64-unknown-linux-builder-with-openssl_1.1.x image | 02:00 | https://github.com/ponylang/shared-docker |
 | shared-docker: update x86-64-unknown-linux-builder-with-pcre image | 02:00 | https://github.com/ponylang/shared-docker |
 | appdirs: test against ponyc latest | 03:00 | https://github.com/ponylang/appdirs |
