@@ -26,7 +26,7 @@ and a shellcheck image that is shared across repos and was generated on January 
 
 - `ponylang/shared-docker-ci-shellcheck:20180101`
 
-### Why use a date as the tag?
+### Using the date as a tag
 
 By using a date as a tag, we can avoid breakage when we do an update. The creation of a new image is divorced from the usage of that image to do testing.It's extra work when updating but removes the "spooky action at a distance" that we previously had.
 
