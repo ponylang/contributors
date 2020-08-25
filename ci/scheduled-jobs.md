@@ -4,6 +4,8 @@ Across a variety of repositories, we have a number of scheduled CI jobs. This do
 
 The scheduled jobs list was last updated May 9, 2020.
 
+<!-- markdownlint-disable -->
+
 | job | time (utc) | repo |
 | --- | --- | --- |
 | changelog-tool: nightly builds | 00:00 | https://github.com/ponylang/changelog-tool |
@@ -32,3 +34,5 @@ The scheduled jobs list was last updated May 9, 2020.
 | regex: test against ponyc latest | 03:00 | https://github.com/ponylang/regex |
 | semver: test against ponyc latest | 03:00 | https://github.com/ponylang/semver |
 | valbytes: test against ponyc latest | 03:00 | https://github.com/ponylang/valbytes |
+
+<!-- markdownlint-restore -->

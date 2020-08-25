@@ -26,7 +26,7 @@ Discussion of LLVM related issues for ponyc
 
 - main.actor
 
-Discussion of work on https://www.main.actor/, our nascent pony library discovery and documentation site.
+Discussion of work on [https://www.main.actor/](https://www.main.actor/), our nascent pony library discovery and documentation site.
 
 - release
 
