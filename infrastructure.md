@@ -116,7 +116,7 @@ Access information is stored in the 1Password account.
 
 ## Zapier
 
-We use Zapier to trigger reminder about our weekly [developer sync meeting](pony-sync.md).
+We use Zapier to trigger reminders about our weekly [developer sync meeting](pony-sync.md).
 
 Access information for Zapier is stored in the 1Password account.
 
@@ -128,6 +128,6 @@ Access information is stored in the 1Password account.
 
 ## Zulip
 
-The hub of our community. If you don't know what Zulip is, think Slack. Anyone can sign up for [Pony Zulip](https://ponylang.zulipchat.com/#).
+The hub of our community. If you don't know what Zulip is, think Slack. Anyone can sign up for the [Pony Zulip](https://ponylang.zulipchat.com/#).
 
 Administrative access is granted by members who already have such access.
