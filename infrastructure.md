@@ -100,6 +100,12 @@ Access is via individual accounts which can be granted various levels of access 
 
 We have an account with [Open Collective](https://opencollective.com/ponyc) by which we can accept donations to support Pony development.
 
+## PyPI
+
+We have a [PyPI](https://pypi.org) account, used to upload packaged releases of our [Mkdocs theme](https://github.com/ponylang/mkdocs-theme).
+
+Access information is stored in the 1Password account.
+
 Access is via individual accounts that can be granted access by a user who already has administrative access.
 
 ## Twitter
