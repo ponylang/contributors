@@ -46,7 +46,7 @@ Members have [triage level](https://docs.github.com/en/github/setting-up-and-man
 
 * Committer
 
-Member have [maintainer level](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) access to all projects.
+Members have [maintainer level](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) access to all projects.
 
 * Core
 
