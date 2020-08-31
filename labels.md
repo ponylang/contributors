@@ -44,7 +44,7 @@ Signalling labels are used on issues to signal to folks who aren't part of the P
 | help wanted | Add this label to any issue that we are open to having a non-committer work on. |
 
 You might think that all issues are "help wanted", however, that isn't the case. Sometimes an issue is more of a reminder to ourselves that something needs to be done (like an upcoming release). Others require a large amount of intimate knowledge and we want to make sure a Pony committer is doing the work.
-So yes, most issues with usually have "help wanted" added to them, but not all.
+So yes, most issues will usually have "help wanted" added to them, but not all.
 
 ## Type labels
 
