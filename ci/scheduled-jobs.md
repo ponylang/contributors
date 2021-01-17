@@ -7,7 +7,7 @@ The scheduled jobs list was last updated January 16, 2021.
 <!-- markdownlint-disable -->
 
 | job | time (utc) | depends on | repo |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | changelog-tool: nightly build | 00:00 | - | https://github.com/ponylang/changelog-tool |
 | corral: nightly build | 00:00 | - | https://github.com/ponylang/corral |
 | ponyc: nightly build | 00:00 | - | https://github.com/ponylang/ponyc |
