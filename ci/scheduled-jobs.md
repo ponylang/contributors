@@ -6,14 +6,14 @@ The scheduled jobs list was last updated January 16, 2021.
 
 <!-- markdownlint-disable -->
 
-| job | time (utc) | depends on | repo |
+| job | time (utc) | triggered by | repo |
 | --- | --- | --- | --- |
 | changelog-tool: nightly build | 00:00 | - | https://github.com/ponylang/changelog-tool |
 | corral: nightly build | 00:00 | - | https://github.com/ponylang/corral |
 | ponyc: nightly build | 00:00 | - | https://github.com/ponylang/ponyc |
 | ponyup: nightly build | 00:00 | - | https://github.com/ponylang/ponyup |
 | shared-docker: update release-a-library image | 01:00 | - | https://github.com/ponylang/shared-docker |
-| shared-docker: update x86-64-unknown-linux-builder image | 01:00 | - | https://github.com/ponylang/shared-docker |
+| shared-docker: update x86-64-unknown-linux-builder image | - | ponyc: nightly build | https://github.com/ponylang/shared-docker |
 | changelog-tool: test against ponyc latest | 02:00 | - | https://github.com/ponylang/changelog-tool |
 | corral: test against ponyc latest | 02:00 | - | https://github.com/ponylang/corral |
 | http: update CI image | 02:00 | - | https://github.com/ponylang/http |
