@@ -67,7 +67,7 @@ Sent after our various linux builders hosted in the shared-docker repo have been
 - [http_server: breakage-against-ponyc-latest](https://github.com/ponylang/http_server/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
 - [net_ssl: breakage-against-ponyc-latest](https://github.com/ponylang/net_ssl/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
 - [peg: breakage-against-ponyc-latest](https://github.com/ponylang/peg/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
-- [ponyup: breakage-against-linux-ponyc-latest](https://github.com/ponyup/appdirs/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
+- [ponyup: breakage-against-linux-ponyc-latest](https://github.com/ponylang/ponyup/blob/master/.github/workflows/breakage-against-linux-ponyc-latest.yml)
 - [reactive_streams: breakage-against-ponyc-latest](https://github.com/ponylang/reactive_streams/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
 - [regex: breakage-against-ponyc-latest](https://github.com/ponylang/regex/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
 - [rfc-tool: breakage-against-ponyc-latest](https://github.com/ponylang/rfc-tool/blob/master/.github/workflows/breakage-against-ponyc-latest.yml)
