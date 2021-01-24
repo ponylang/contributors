@@ -18,3 +18,4 @@ All our CI for Linux is done in Docker images. See [CI image organization](ci-im
 
 - [CI image organization](ci-image-organization.md)
 - [Scheduled jobs](scheduled-jobs.md)
+- [Triggered jobs](triggered-jobs.md)
