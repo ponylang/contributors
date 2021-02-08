@@ -10,7 +10,7 @@ Below, we'll break down the different labels into various categories and give a 
 
 Changelog labels are added to pull requests that should be added to the CHANGELOG.md for a project. Our changelogs are divided into three sections: `Added`, `Changed`, `Fixed`.
 
-When adding a changelog label to a PR, make sure that the title of the PR is a good "public facing comment" as the title will be the text that appears in the changelog along with a link to the PR itself. Check out the [ponyc CHANGELOG.md](https://github.com/ponylang/ponyc/blob/master/CHANGELOG.md) if you need an example.
+When adding a changelog label to a PR, make sure that the title of the PR is a good "public facing comment" as the title will be the text that appears in the changelog along with a link to the PR itself. Check out the [ponyc CHANGELOG.md](https://github.com/ponylang/ponyc/blob/main/CHANGELOG.md) if you need an example.
 
 | label | description |
 | --- | --- |

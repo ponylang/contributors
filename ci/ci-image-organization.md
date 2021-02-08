@@ -4,7 +4,7 @@
 
 ### CI images used in a single repository
 
-Dockerfiles for images specific to CI takes for a given repository live in a `.ci-dockerfiles` directory in that repository. As an example, you can check out the [.ci-dockerfiles for the ponyc repo](https://github.com/ponylang/ponyc/tree/master/.ci-dockerfiles).
+Dockerfiles for images specific to CI takes for a given repository live in a `.ci-dockerfiles` directory in that repository. As an example, you can check out the [.ci-dockerfiles for the ponyc repo](https://github.com/ponylang/ponyc/tree/main/.ci-dockerfiles).
 
 By living in the same repo where the generated images are used, we can version the changes to the Dockerfiles along with corresponding changes to CI configuration.
 

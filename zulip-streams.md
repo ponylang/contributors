@@ -34,7 +34,7 @@ Discussion of our release processes and surrounding events.
 
 - RFCs
 
-Discussion of the [RFC process](https://github.com/ponylang/rfcs/blob/master/README.md) and individual RFCs.
+Discussion of the [RFC process](https://github.com/ponylang/rfcs/blob/main/README.md) and individual RFCs.
 
 - runtime
 
