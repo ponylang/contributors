@@ -67,6 +67,7 @@ Sent after our various linux builders hosted in the shared-docker repo have been
 - [http_server: breakage-against-ponyc-latest](https://github.com/ponylang/http_server/blob/main/.github/workflows/breakage-against-ponyc-latest.yml)
 - [net_ssl: breakage-against-ponyc-latest](https://github.com/ponylang/net_ssl/blob/main/.github/workflows/breakage-against-ponyc-latest.yml)
 - [peg: breakage-against-ponyc-latest](https://github.com/ponylang/peg/blob/main/.github/workflows/breakage-against-ponyc-latest.yml)
+- [ponydoc: breakage-against-linux-ponyc-latest](https://github.com/ponylang/ponydoc/blob/main/.github/workflows/breakage-against-linux-ponyc-latest.yml)
 - [ponyup: breakage-against-linux-ponyc-latest](https://github.com/ponylang/ponyup/blob/main/.github/workflows/breakage-against-linux-ponyc-latest.yml)
 - [reactive_streams: breakage-against-ponyc-latest](https://github.com/ponylang/reactive_streams/blob/main/.github/workflows/breakage-against-ponyc-latest.yml)
 - [regex: breakage-against-ponyc-latest](https://github.com/ponylang/regex/blob/main/.github/workflows/breakage-against-ponyc-latest.yml)
