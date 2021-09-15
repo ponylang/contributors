@@ -24,6 +24,7 @@ The triggered jobs list was last updated January 22, 2021.
 
 ### Triggered workflows
 
+- [corral: breakage-against-macos-ponyc-latest](https://github.com/ponylang/corral/blob/main/.github/workflows/breakage-against-macos-ponyc-latest.yml)
 - [ponyup: breakage-against-macos-ponyc-latest](https://github.com/ponylang/ponyup/blob/main/.github/workflows/breakage-against-macos-ponyc-latest.yml)
 
 ## ponyc-musl-nightly-released
@@ -47,6 +48,17 @@ The triggered jobs list was last updated January 22, 2021.
 
 - [shared-docker: linux-builder-update](https://github.com/ponylang/shared-docker/blob/main/.github/workflows/linux-builder-update.yml)
 - [shared-docker: release-a-library-update](https://github.com/ponylang/shared-docker/blob/main/.github/workflows/release-a-library-update.yml)
+
+## ponyc-windows-nightly-released
+
+### Sending workflows
+
+- [ponyc: cloudsmith-package-synchronised](https://github.com/ponylang/ponyc/blob/main/.github/workflows/cloudsmith-package-sychronised.yml)
+
+### Triggered workflows
+
+- [corral: breakage-against-windows-ponyc-latest](https://github.com/ponylang/corral/blob/main/.github/workflows/breakage-against-windows-ponyc-latest.yml)
+- [http: breakage-against-windows-ponyc-latest](https://github.com/ponylang/http/blob/main/.github/workflows/breakage-against-windows-ponyc-latest.yml)
 
 ## shared-docker-linux-builders-updated
 
