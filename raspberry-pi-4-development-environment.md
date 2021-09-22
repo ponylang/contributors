@@ -57,7 +57,7 @@ You'll need to use whatever tools your router provides to get the IP address of 
 Cmake is required so go ahead an install it:
 
 - sudo apt-get update --allow-releaseinfo-change
-- sudo apt-get install cmake
+- sudo apt-get install cmake git
 
 At this time, you can't build Pony on a 32-bit Arm system using clang. Additionally, lldb doesn't appear to work in general. If you are working on solving either of those issues, go ahead an install them as well:
 
