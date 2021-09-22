@@ -22,6 +22,16 @@ A computer that has a MicroSD or SD reader/writer. Many computers come with buil
 
 The current SD card requirements are available on the [Raspberry Pi website](https://www.raspberrypi.org/documentation/computers/getting-started.html#sd-cards).
 
+## Installing Raspbian on a microSD
+
+If you didn't purchase a microSD with Raspbian installed, you'll need to download a Raspbian image and write it to your microSD using the [Raspberry Pi imager](https://www.raspberrypi.org/software/).
+
+Raspbian downloads are available from the [Raspberry Pi downloads site](https://downloads.raspberrypi.org/).
+
+For 32-bit installs you want to download a .zip image of [raspios_lite_armhf](https://downloads.raspberrypi.org/raspios_armhf/).
+
+For 64-bit installs you want to download a .zip image of[raspbios_lite_arm64](https://downloads.raspberrypi.org/raspios_arm64/).
+
 ## Pre-boot Raspbian setup
 
 These directions assume that you purchased a pre-installed Raspbian on a MicroSD. The directions should generally work if you using a different Raspbian, but haven't been tested with anything other than the version you can get as of September 2021.
