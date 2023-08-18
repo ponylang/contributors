@@ -7,7 +7,7 @@ jobs:
     name: Lint bash, docker, markdown, and yaml
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Lint codebase
         uses: docker://github/super-linter:v3.8.3
         env:
