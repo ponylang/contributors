@@ -16,7 +16,7 @@ The triggered jobs list was last updated September 14, 2021.
 
 - [shared-docker: release-a-library-update](https://github.com/ponylang/shared-docker/blob/main/.github/workflows/release-a-library-update.yml)
 
-## ponyc-macos-nightly-released
+## ponyc-x86_64-macos-nightly-released
 
 ### Sending workflows
 
