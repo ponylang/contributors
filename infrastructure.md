@@ -14,14 +14,6 @@ All our nightly and release artifacts are stored in [Cloudsmith](https://cloudsm
 
 Access is via individual accounts which can then be granted various levels of access. There's a "ponylang" account that can be used for some administrative tasks. Information for the ponylang account is stored in 1Password.
 
-## CirrusCI
-
-[CirrusCI](https://cirrus-ci.com/) is a CI service. We use it on some projects to provide CI services on FreeBSD. Its primary usage is on the [pony compiler](https://github.com/ponylang/ponyc) for building, testing, and releasing ponyc.
-
-Building ponyc involves building LLVM which is a resource intensive process. GitHub actions do not provide an environment where LLVM can be built in a timely fashion. CirrusCI allows us to provision machines with 8 CPUs and 24 gigs of RAM for building LLVM.
-
-Access to CirrusCI is via your GitHub account.
-
 ## DockerHub
 
 All our docker images that are used across various CI and release jobs are stored on DockerHub.
@@ -36,7 +28,7 @@ Access information is in the 1Password account.
 
 ## GitHub
 
-All our code is stored on GitHub. Most of our CI is done via [GitHub actions](https://github.com/features/actions). You'll need a GitHub account to participate in almost all aspects of the Pony project.
+All our code is stored on GitHub. All our CI is done via [GitHub actions](https://github.com/features/actions). You'll need a GitHub account to participate in almost all aspects of the Pony project.
 
 Access to GitHub is divided into three different teams.
 

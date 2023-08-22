@@ -4,11 +4,9 @@ Information related to our various CI systems.
 
 ## CI systems in use
 
-Our primary CI systems are GitHub Actions and CirrusCI. Excluding the ponyc repository, all CI is done via GitHub Actions except for FreeBSD jobs which are run in CirrusCI.
+Our CI system is GitHub Actions.
 
-Building and testing ponyc requires machines that are more powerful than those provided by GitHub Actions. All ponyc CI that involves building ponyc is done in CirrusCI.
-
-A few pony project might still be using legacy CI setups with Appveyor, CircleCI, or TravisCI. If you see any of these, you are encouraged to submit a PR to update them to using GitHub Actions and/or CirrusCI.
+A few pony project might still be using legacy CI setups with Appveyor, CircleCI, CirrusCI, or TravisCI. If you see any of these, you are encouraged to submit a PR to update them to using GitHub Actions.
 
 ## Additional infrastructure
 
