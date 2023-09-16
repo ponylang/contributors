@@ -10,7 +10,7 @@ A few pony project might still be using legacy CI setups with Appveyor, CircleCI
 
 ## Additional infrastructure
 
-All our CI for Linux is done in Docker images. See [CI image organization](ci-image-organization.md) for more information about where you can find image definitions. All build images are stored in DockerHub under the [ponylang organization](https://hub.docker.com/u/ponylang).
+All our CI for Linux is done in Docker images. See [CI image organization](ci-image-organization.md) for more information about where you can find image definitions. All build images are stored in GitHub Container Registry. You can find a list under the [ponylang organization's packages](https://github.com/orgs/ponylang/packages).
 
 ---
 
