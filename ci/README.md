@@ -15,5 +15,6 @@ All our CI for Linux is done in Docker images. See [CI image organization](ci-im
 ---
 
 - [CI image organization](ci-image-organization.md)
+- [GitHub Actions and Security](gh-actions-security.md)
 - [Scheduled jobs](scheduled-jobs.md)
 - [Triggered jobs](triggered-jobs.md)
