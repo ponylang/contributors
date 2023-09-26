@@ -10,7 +10,7 @@ Most of the executed code is created and published by either us or GitHub. We al
 - Only actions from GitHub's `actions` organization and our own organization can run using a Docker image or references a git branch or tag
 - All "additional 3rd party" actions **MUST** only for a specific git commit hash
 - Only "additional 3rd party" actions that have been reviewed and considered trustworthy can be used
-- Only Docker images that have been blessed by DockerHub or GitHub can be used as base images for images that we use as part of our CI process if the image is referenced by a tag
+- Only Docker images that have been marked by DockerHub or GitHub as Official Images can be used as base images for images that we use as part of our CI process if the image is referenced by a tag
 - Docker images not blessed by DockerHub or GitHub can be used as base images for images we use as part of our CI process if the image is referenced by it's SHA and the image has been reviewed for trustworthiness
 
 ## Security Concerns
