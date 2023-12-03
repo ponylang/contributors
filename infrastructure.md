@@ -14,11 +14,9 @@ All our nightly and release artifacts are stored in [Cloudsmith](https://cloudsm
 
 Access is via individual accounts which can then be granted various levels of access. There's a "ponylang" account that can be used for some administrative tasks. Information for the ponylang account is stored in 1Password.
 
-## DockerHub
+## GitHub Container Registry
 
-All our docker images that are used across various CI and release jobs are stored on DockerHub.
-
-You need a personal DockerHub account which can then be granted various levels of access as needed.
+All our docker images that are used across various CI and release jobs are stored in the GitHub Container Registry.
 
 ## ForwardMX
 
