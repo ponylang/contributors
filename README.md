@@ -1,11 +1,3 @@
-# Pony contributors "website"
+# This site is archived
 
-Information for Pony contributors broken down into different topics.
-
-- [CI](ci)
-- [Contributor oriented Zulip Streams](zulip-streams.md)
-- [Infrastructure overview](infrastructure.md)
-- [Labels](labels.md)
-- [Last Week In Pony](lwip.md)
-- [Pony Sync](pony-sync.md)
-- [Releases](releases.md)
+We've archived this repository. All content is now available in the [contribute section of the Pony website](https://www.ponylang.io/contribute/).
